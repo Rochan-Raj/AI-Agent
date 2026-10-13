@@ -278,6 +278,9 @@ python main.py "Process the latest invoice from Acme Ltd" --fail-first-save
 ```
 
 This enables the project's simulated first-save failure. Inspect the execution trace to see whether the bounded retry succeeds and verification completes.
+Here is my output of the model:
+<img width="1775" height="580" alt="Screenshot 2026-10-13 005931" src="https://github.com/user-attachments/assets/7b57c136-3f98-4f16-99c3-f3eb75e00280" />
+
 
 ### Option 2: Run the browser-based finance workflow
 
@@ -341,6 +344,8 @@ The current starter test suite has been verified with five passing tests.
 These tests cover parts of the invoice tools, finance tools, and CLI agent behavior. They do not constitute comprehensive end-to-end testing of the browser workflow or production reliability.
 
 The browser workflow can also be exercised manually by starting `finance_web.py` and running `browser_workflow.py` in a second terminal.
+## Demo Video
+"C:\Users\HP\Videos\2026-10-14 03-03-17.mp4"
 
 ## Important Technical and Design Decisions
 
