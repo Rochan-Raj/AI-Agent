@@ -340,7 +340,6 @@ python -m pytest -q
 ```
 
 
-https://github.com/user-attachments/assets/fcece300-3afc-4db9-8bd7-6d07f580655b
 
 
 The current starter test suite has been verified with five passing tests.
@@ -349,7 +348,7 @@ These tests cover parts of the invoice tools, finance tools, and CLI agent behav
 
 The browser workflow can also be exercised manually by starting `finance_web.py` and running `browser_workflow.py` in a second terminal.
 ## Demo Video
-"C:\Users\HP\Videos\2026-10-14 03-03-17.mp4"
+https://github.com/user-attachments/assets/fcece300-3afc-4db9-8bd7-6d07f580655b
 
 
 ## Important Technical and Design Decisions
