@@ -289,7 +289,7 @@ The browser workflow requires two terminals.
 python finance_web.py
 ```
 
-Keep the server running. The application listens on:
+Keep the server running. The application listens on example:
 
 `http://127.0.0.1:5000`
 
